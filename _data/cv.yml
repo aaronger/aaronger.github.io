@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Aaron Paul Gerding 
     - name: Date of Birth
-      value: 14th March 1879
+      value: 27th April 1973
     - name: Languages
       value: English, German
 
@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Massachusetts, Amherst, MA, US
+      year: 2011
       description:
         - Description 1.
         - Description 2.

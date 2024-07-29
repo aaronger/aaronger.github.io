@@ -1,200 +1,206 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Aaron Gerding",
+    "email": "agerding@umass.edu",
+    "phone": "413-222-6689",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "9 Lyman Rd.",
+      "city": "Northampton",
+      "postalCode": "01060",
       "countryCode": "US",
-      "region": "California"
+      "region": "MA"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "url": "https://aaronger.github.io"
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Massachusetts, Amherst",
+      "area": "Biostatistics",
+      "studyType": "M.S.",
+      "startDate": "2019-01",
+      "endDate": "2024-05",
+      "summary": "Areas of concentration: Infectious disease forecasting and forecast evaluation, Semi-parametric methods in causal inference"
+    },
+    {
+      "institution": "University of Massachusetts, Amherst",
+      "area": "Mathematics",
+      "studyType": "Ph.D.",
+      "startDate": "2006-09",
+      "endDate": "2011-09",
+      "summary": "Dissertation: Spectral Methods for Higher Genus Constant Mean Curvature Surfaces. Advisor: Professor Franz Pedit. Area of concentration: Differential geometry and integrable systems."
+    },
+    {
+      "institution": "University of Massachusetts, Amherst",
+      "area": "Mathematics",
+      "studyType": "M.S.",
+      "startDate": "2001-09",
+      "endDate": "2006-09"
+    },
+    {
+      "institution": "University of Massachusetts, Amherst",
+      "area": "Mathematics",
+      "studyType": "B.S.",
+      "startDate": "1999-01",
+      "endDate": "2001-09",
+      "score": "Cum Laude, with Honors in Mathematics",
+      "summary": "Awarded “Research Experience for Undergraduates” grants in the summers of 2000 and 2001 for projects on scientific computing and stochastic differential equations."
     }
   ],
-  "awards": [
+  "work": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "name": "University of Massachusetts, Amherst",
+      "position": "Graduate Research Assistant",
+      "startDate": "2020-12",
+      "summary": "Working in Professor Nicholas Reich’s lab where I help maintain the COVID19 Forecast Hub and develop ensemble forecasts which are communicated by the US CDC.",
+      "highlights": [
+        "Joined the COVID-19 Forecast Hub at UMass, Amherst as a research assistant and progressed to a key role in developing and producing the 1-4 week ensemble COVID forecasts used by the CDC and White House to guide the national pandemic response.",
+        "Maintained data pipelines, built visualization tools for assessing accuracy and value of forecasts, and coordinated with external forecasting teams."
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "University of Massachusetts, Amherst",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2019-01",
+      "endDate": "2020-01",
+      "highlights": [
+        "Graded and provided forum support for introductory biostatistics course for public health graduate students",
+        "Helped rewrite Stata-based course notes to accommodate R users",
+        "Helped moderate large Biostats for MPH students lecture class on Zoom" 
+      ],
+      "summary": ""
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "University of Massachusetts, Amherst",
+      "position": "Lecturer",
+      "startDate": "2016-01",
+      "endDate": "2018-08",
+      "highlights": [
+        "Taught three sections per semester of undergraduate calculus, linear algebra, and differential equations, each section typically including 60 students",
+        "Helped to assess and improve teaching skills of new graduate students"
+      ],
+      "summary": ""
+    },
+    {
+      "name": "Mathematics Institute, Universität Tübingen",
+      "position": "Postdoctoral Scientist",
+      "startDate": "2012-09",
+      "endDate": "2014-09",
+      "highlights": [
+        "Worked in differential geometry unit of the German Research Foundation's special program “SFB TR 71: Geometric Partial Differential Equations”",
+        "Taught special topic courses in geometry and mathematical physics for undergraduate and masters students"
+      ],
+      "summary": ""
+    },
+    {
+      "name": "Mathematics Institute, Universität Tübingen",
+      "position": "Graduate Research Assistant",
+      "startDate": "2007-06",
+      "endDate": "2008-09",
+      "summary": "Conducted research for the special project “Surface Geometry and Integrable Systems: Theory and Experiment” funded by the German Research Foundation and directed by Ph.D. thesis advisor, Franz Pedit."
+    },
+    {
+      "name": "University of Massachusetts, Amherst",
+      "position": "Graduate Instructor",
+      "startDate": "2001-09",
+      "endDate": "2007-05",
+      "summary": "Taught regular semester and summer session versions of undergraduate courses: Calculus for Scientists and Engineers, I, II, and III, and Calculus for Life Science and Business Majors. Served as Teaching Assistant for an undergraduate course in Ordinary Differential Equations, and graduate course grader in Topology."
+    }
+  ],
+  "publications":  [
+    {
+      "name": "Challenges in training ensembles to forecast COVID-19 cases and deaths in the United States",
+      "publisher": "International Institute of Forecasters",
+      "releaseDate": "2021",
+      "url": "https://forecasters.org/blog/2021/04/09/challenges-in-training-ensembles-to-forecast-covid-19-cases-and-deaths-in-the-united-states/",
+      "authors": ["Evan L. Ray", "Logan C. Brooks", "Jacob Bien", "Johannes Bracher", "Aaron Gerding", "Aaron Rumack", "Matthew Biggerstaff", "Michael A. Johansson", "Ryan J. Tibshirani", "Nicholas G. Reich"]
+    },
+    {
+      "name": "Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the United States",
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "releaseDate": "2022",
+      "volume": "119",
+      "number": "15",
+      "pages": "e2113561119",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2113561119",
+      "authors": ["Estee Y. Cramer", "Evan L. Ray", "Velma K. Lopez", "Johannes Bracher", "Andrea Brennen", "Alvaro J. Castro Rivadeneira", "Aaron Gerding", "Tilmann Gneiting", "Katie H. House", "Yuxin Huang"]
+    },
+    {
+      "name": "The United States COVID-19 Forecast Hub Dataset",
+      "publisher": "Scientific Data",
+      "releaseDate": "2022",
+      "volume": "9",
+      "number": "1",
+      "pages": "462",
+      "url": "https://www.nature.com/articles/s41597-022-01517-w",
+      "authors": ["Estee Y. Cramer", "Yuxin Huang", "Yijin Wang", "Evan L. Ray", "Matthew Cornell", "Johannes Bracher", "Andrea Brennen", "Alvaro J. Castro Rivadeneira", "Aaron Gerding", "Katie House"]
+    },
+    {
+      "name": "Global aspects of integrable surface geometry",
+      "publisher": "Systèmes intégrables et théorie des champs quantiques. Travaux en cours No. 75",
+      "releaseDate": "2009",
+      "authors": ["Aaron Gerding", "S. Heller", "F. Pedit", "N. Schmitt"],
+      "url": "https://www.math.uni-tuebingen.de/ab/GeometrieWerkstatt/heller/peyresq-lores.pdf"
+    },
+    {
+      "name": "Comparing trained and untrained probabilistic ensemble forecasts of COVID-19 cases and deaths in the United States",
+      "publisher": "International journal of forecasting",
+      "releaseDate": "2023",
+      "volume": "39",
+      "number": "3",
+      "pages": "1366-1383",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35791416/",
+      "authors": ["Evan L. Ray", "Logan C. Brooks", "Jacob Bien", "Matthew Biggerstaff", "Nikos I. Bosse", "Johannes Bracher", "Estee Y. Cramer", "Sebastian Funk", "Aaron Gerding", "Michael A. Johansson", "Aaron Rumack", "Yijin Wang", "Martha Zorn", "Ryan J. Tibshirani", "Nicholas G. Reich"]
+    },
+    {
+      "name": "Evaluating infectious disease forecasts with allocation scoring rules",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2023",
+      "authors": ["Aaron Gerding", "Nicholas G. Reich", "Benjamin Rogers", "Evan L. Ray"],
+      "url": "https://arxiv.org/abs/2312.16201"
+    },
+    {
+      "name": "Constant mean curvature surfaces: an integrable systems perspective",
+      "publisher": "Harmonic maps and differential geometry. A harmonic map fest in honour of John C. Wood’s 60th birthday, Cagliari, Italy, September 7–10, 2009",
+      "releaseDate": "2011",
+      "volume": "542",
+      "pages": "7-39",
+      "authors": ["Aaron Gerding", "F. Pedit", "N. Schmitt"],
+      "url": "https://doi.org/10.1090/conm/542/10697"
+    },
+    {
+      "name": "Spectral methods for higher genus constant mean curvature surfaces",
+      "publisher": "ProQuest LLC, Ann Arbor, MI",
+      "releaseDate": "2011",
+      "authors": ["Aaron Gerding"],
+      "url": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqdiss&rft_dat=xri:pqdiss:3482626"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "COVID19 Forecast Hub",
+      "description": "Develop ensemble forecasts which are communicated by the US CDC.",
+      "startDate": "2020-12",
+      "roles": ["Graduate Research Assistant"]
+    }
+  ],
+  "conferenceLectures": [
+    {
+      "name": "43rd International Symposium On Forecasting",
+      "date": "2023-06",
+      "location": "Charlottesville, USA",
+      "summary": "Infectious Disease Forecast Evaluation Based On Realized Social Utility"
+    },
+    {
+      "name": "CIMAT/CIMPA College on Vector Bundles",
+      "date": "2006-11",
+      "location": "Guanajuato, Mexico",
+      "summary": "Semi-stable Higgs Bundles and Constant Mean Curvature Surfaces"
+    },
+    {
+      "name": "Integrable Systems and Quantum Field Theory (Fifth Meeting)",
+      "date": "2005-06",
+      "location": "Peyresq, France",
+      "summary": "Global Aspects of Integrable Surface Geometry"
     }
   ]
 }

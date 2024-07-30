@@ -21,9 +21,10 @@ social: false # includes social icons at the bottom of the page
 I build, evaluate, and combine (mainly probabilistic) forecasts of the incidence and outcomes of infectious diseases. 
 
 My work is anchored in the goal of understanding and formalizing how forecasts can
-be structured and presented to best support adaptive public health policy. A central
-component of this goal is to reduce the degree to which forecasting methodology translates
-gaps in social or political visibility into public health disparities.
+be structured and presented to best support adaptive public health policy. 
+In order for epidemiogical forecasting to lead to policy that is both just and effective,
+I see it as crucial that operational statistical methodologies retain a special focus on those 
+populations with the lowest social and political visibility.
 
 Previously I studied the differential geometry of surfaces immersed in space forms from
 the perspective of integrable systems theory and explored information geometry while
